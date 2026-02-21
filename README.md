@@ -63,6 +63,10 @@ Currently building my skills in tech and improving step by step.
 
 ⚡ Fun fact: I’ll pick a mystery over a love story any day.
 
-##### My Github Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/intan-ayuuu/intan-ayuuu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/intan-ayuuu/intan-ayuuu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/intan-ayuuu/intan-ayuuu/output/pacman-contribution-graph.svg">
+</picture>
 
-![Intan's GitHub stats](https://github-readme-stats.vercel.app/api?username=intan-ayuuu&show_icons=true&count_private=true&theme=default)
+###
