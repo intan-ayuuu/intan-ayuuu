@@ -58,6 +58,7 @@ Currently building my skills in tech and improving step by step.
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/intan-ayuuu
+- Wantedly: https://www.wantedly.com/id/kumara_dewi
 
 ---
 
